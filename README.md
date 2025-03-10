@@ -8,5 +8,5 @@ mkdir
 
 ## Setup 
 
-[] Replace `...`s in [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json)
+- [ ] Replace `...`s in [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json)
 
